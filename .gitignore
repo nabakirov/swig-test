@@ -1,6 +1,3 @@
-__pycache__
-build
-_example.cpython-36m-darwin.so
 
-example_wrap.cxx
-example.py
+_*
+.DS_Store
