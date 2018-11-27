@@ -1,5 +1,5 @@
 /* File: example.i */
-%module Core
+%module GeoCore
 
 %{
 #define SWIG_FILE_WITH_INIT
